@@ -7,7 +7,7 @@ WIDTH = 600
 HEIGHT = 850
 FPS = 60
 
-# Цвета
+# Colors
 YELLOW = (255, 255, 0)
 SKY = (133, 193, 233)
 GREEN = (46, 204, 113)
